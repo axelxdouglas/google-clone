@@ -1,0 +1,19 @@
+{
+  "name": "google-clone",
+  "version": "1.0.0",
+  "description": "Clone de google",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelxdouglas/google-clone.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axelxdouglas/google-clone/issues"
+  },
+  "homepage": "https://github.com/axelxdouglas/google-clone#readme"
+}
